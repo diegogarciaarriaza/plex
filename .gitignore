@@ -1,0 +1,11 @@
+/telegram/node_modules
+/telegram/.idea
+/media/kidmovies/*
+/media/movies/*
+/media/private/*
+/media/tv/*
+/config/*
+/downloads/watched/movies/*
+/downloads/watched/kidmovies/*
+/downloads/watched/private/*
+/downloads/watched/tv/*

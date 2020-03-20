@@ -1,0 +1,5 @@
+from linuxserver/rutorrent
+
+#RUN apk add ssmtp
+
+#add ./config/ssmtp.conf /etc/ssmtp/ssmtp.conf
